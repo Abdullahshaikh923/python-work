@@ -1,0 +1,5 @@
+print("hello world",2)
+print("my name is Abdullah\n")
+print("hello"+"sir")
+user_name=input("what is your name")
+print("you typed user answer",user_name)
