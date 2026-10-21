@@ -9,7 +9,7 @@ if vehical==1:
     else:
         print("mountain byke")
 elif vehical==2:
-    print("choose a car type 1-sedan,2-oddy:")
+    print("choosecar type 1-sedan,2-oddy:")
     car_type=int(input("enter choice:"))
     if car_type==1:
         print("sedan")
